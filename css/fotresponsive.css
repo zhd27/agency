@@ -1,6 +1,14 @@
  
 @media (min-width: 320px) and (max-width: 575.98px) {
-    
+     .navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    background-color: black;
+    border-radius: 10px;
+	}   
 
     .navbar-nav .nav-item .nav-link {
         font-size: 18px;
