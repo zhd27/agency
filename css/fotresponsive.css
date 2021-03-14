@@ -1,6 +1,7 @@
  
 @media (min-width: 320px) and (max-width: 575.98px) {
-     .navbar-nav {
+
+    .navbar-nav {
     display: flex;
     flex-direction: column;
     padding-left: 0;
@@ -8,9 +9,10 @@
     list-style: none;
     background-color: black;
     border-radius: 10px;
-	}   
-    .problem{
-	 margin-top: 220px;
+	}
+
+	.problem{
+		margin-top: 220px;
 	}
 
     .navbar-nav .nav-item .nav-link {
@@ -196,8 +198,8 @@ padding-top: 35px;
 
 
 @media (min-width: 576px) and (max-width: 767.98px) {
-  .problem {
-         margin-top: 220px;
+	.problem{
+		margin-top: 220px;
 	}
 .service_top {
     padding-bottom: 70px;
@@ -330,10 +332,8 @@ padding-top: 35px;
 }
 
 @media (min-width: 768px) and (max-width: 991.98px){
-     .problem {
-         margin-top: 220px;
-	}
-    .navbar-nav .nav-item .nav-link {
+    
+	.navbar-nav .nav-item .nav-link {
         font-size: 18px;
         text-align: center;
         background-color: transparent;
@@ -464,6 +464,9 @@ padding-top: 35px;
     .finalnow h4{
         font-size: 26px;
     }
+		.problem{
+		margin-top: 220px;
+	}
     
 }
 
@@ -569,5 +572,4 @@ padding-top: 35px;
     
 }
     
-
 
